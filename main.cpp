@@ -6,6 +6,7 @@
 #include "ejercicio2/Circulo.h"
 #include "ejercicio2/Triangulo.h"
 #include "ejercicio3/Ejercicio3.h"
+#include "ejercicio4/Ejercicio4.h"
 
 
 int main() {
@@ -18,5 +19,8 @@ int main() {
     Geometria::Circulo c(5);
     std::cout << "Area: " << c.calcularArea() << std::endl;
     std::cout << "Perimetro: " << c.calcularPerimetro() << std::endl;
+
+    std::cout << "Energia: " << Ciencia::Fisica::calcularEnergia(10) << std::endl;
+
     return 0;
 }
