@@ -7,9 +7,12 @@
 #include "ejercicio2/Triangulo.h"
 #include "ejercicio3/Ejercicio3.h"
 #include "ejercicio4/Ejercicio4.h"
+#include "ejercicio5/Ejercicio5.h"
 
 
 int main() {
+    Ejercicio5();
+
     std::cout << "Suma: " << Matematicas::suma(5, 3) << std::endl;
     std::cout << "Resta: " << Matematicas::resta(5, 3) << std::endl;
 
