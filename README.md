@@ -23,4 +23,4 @@ El ejercicio 5 compila pero no devuelve ninguna información.
 
 # Flujos
 
-El ejercicio es el mismo pero todos los resultados se guardan en un txt extra.
+El ejercicio es el mismo pero todos los resultados se guardan en un txt extra y los datos se piden por teclado
