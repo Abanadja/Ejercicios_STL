@@ -1,0 +1,5 @@
+=== Operaciones Matemáticas ===Suma: 3Resta: -1
+=== Geometría: Área del Triángulo ===Área del triángulo: 3
+=== Geometría: Área del Círculo ===Área del círculo: 50.24
+=== Clase Círculo ===Área del círculo (clase): 78.5Perímetro del círculo: 31.4
+=== Física: Energía Relativista ===Energía (E = m * c^2): 3.59502e+17 joules

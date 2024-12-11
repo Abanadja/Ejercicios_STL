@@ -14,6 +14,4 @@ add_executable(Ejercicios_STL
         ejercicio3/Ejercicio3.cpp
         ejercicio4/Ejercicio4.h
         ejercicio4/Ejercicio4.cpp
-        ejercicio5/Ejercicio5.h
-        ejercicio5/Ejercicio5.cpp
 )
