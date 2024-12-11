@@ -20,3 +20,7 @@ Presentación de la STL Escribe un programa que utilice al menos tres diferentes
 ## Conclusión
 Los ejercicios del 1-4 dan resultado correctamente. Lo podría haber dejado bonito y hacerlo con switch llamando las funciones pero la manera realizada da resultados.
 El ejercicio 5 compila pero no devuelve ninguna información.
+
+# Flujos
+
+El ejercicio es el mismo pero todos los resultados se guardan en un txt extra.
